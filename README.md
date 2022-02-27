@@ -2,7 +2,7 @@
 
 _Metaphysics_ is a pair of sculptures I made. This bare bones repository stores `metaphysics.py`, the code I wrote to help me create them. Feel free to run it yourself and improve on it if you're inspired to!
 
-Visit [https://www.LiamHaleMcCarty.com/metaphysics/](https://www.liamhalemccarty.com/metaphysics/) for lots more information about this project.
+Visit [my website](https://www.liamhalemccarty.com/metaphysics/) for lots more information about this project.
 
 The die of dominoes is the focus of the code here, since constructing it properly requires a series of fairly complex calculations.
 
