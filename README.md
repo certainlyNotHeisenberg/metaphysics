@@ -1,6 +1,6 @@
 # _Metaphysics_
 
-_Metaphysics_ is a pair of sculptures I made. This bare bones repository stores `metaphysics.py`, the code I wrote to help me create them. Feel free to run it yourself and improve on it if you're inspired!
+_Metaphysics_ is a pair of sculptures I made. This bare bones repository stores `metaphysics.py`, the code I wrote to help me create them. Feel free to run it yourself and improve on it if you're inspired to!
 
 Visit [https://www.LiamHaleMcCarty.com/metaphysics/](https://www.liamhalemccarty.com/metaphysics/) for lots more information about this project.
 
